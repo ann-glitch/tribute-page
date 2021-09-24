@@ -1,0 +1,55 @@
+#main {
+    font-family: "Segoe UI", sans-serif;
+    font-size: 14px;
+    background-color: #D3D3D3;
+    border-radius: 10px;
+   
+  }
+  #title {
+    font-size: 2.5em;
+    position: relative;
+    top: 30px;
+    margin-bottom: 1.5em;
+  }
+  #img-div {
+    background-color: white;
+  }
+  #img-caption {
+    font-size: 15px;
+    position: relative;
+    bottom: 5px;
+  }
+  #title, p {
+    text-align: center;
+  }
+  
+  
+  #image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  figcaption {
+    text-align: center;
+    margin-top: 20px;
+  }
+  #tribute-info{
+    text-align: center;
+    font-size: 16px;
+  }
+  ul {
+    text-align: center;
+    list-style-position: inside;
+    
+  }
+  li {
+    margin: 15px;
+  }
+  #quote {
+    font-style: italic;
+  }
+  #referral {
+    position: relative;
+    bottom: 5px;
+  }
